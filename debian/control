@@ -1,9 +1,10 @@
 Source: virtualbox-extpack-installer
 Section: net
 Priority: optional
-Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
+Maintainer: Simon Pascal Baur <simonbaur@0rca.ch>
 Build-Depends: debhelper (>= 9.0.0)
 Standards-Version: 3.9.3
+Homepage: http://0rca.ch/
 
 Package: virtualbox-extpack-installer
 Architecture: all
