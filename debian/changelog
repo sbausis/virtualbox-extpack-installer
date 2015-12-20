@@ -1,3 +1,9 @@
+virtualbox-extpack-installer (5.0.12) stable; urgency=low
+
+  * Update to 5.0.12
+
+ -- Simon Pascal Baur <simonbaur@0rca.ch>  Sun, 20 Dec 2015 14:22:18 +0100
+
 virtualbox-extpack-installer (5.0.10.1) stable; urgency=low
 
   * Take over :)
