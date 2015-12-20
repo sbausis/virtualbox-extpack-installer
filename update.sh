@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export DEBEMAIL="plugins@omv-extras.org"
-export DEBFULLNAME="OpenMediaVault Plugin Developers"
+export DEBEMAIL="simonbaur@0rca.ch"
+export DEBFULLNAME="Simon Pascal Baur"
 
 SUBSTVARS_FILE="debian/substvars"
 PACKAGE_VIRTUALBOX_VERSION="$(cat ${SUBSTVARS_FILE} | grep virtualbox:version= | cut -c 20-)"
